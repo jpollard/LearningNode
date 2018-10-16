@@ -1,5 +1,9 @@
 # Ignore vscode folder
 .vscode
+LearningNode.code-workspace
+
+albums
+
 
 
 # Logs
